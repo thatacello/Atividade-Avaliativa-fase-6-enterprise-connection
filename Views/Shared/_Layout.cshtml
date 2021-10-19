@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- font awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" 
+    integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" 
+    crossorigin="anonymous" />
+
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x"
+      crossorigin="anonymous"
+    />
+
+    <link rel="stylesheet" href="~/css/site.css">
+    <title>Projeto Gulliver</title>
+</head>
+<body>
+    <!-- início cabeçalho -->
+    <header class="header__principal">
+        <section class="header__titulo">
+            <h3>Projeto Gulliver</h3>
+        </section>
+        <div>
+            <input type="search" placeholder="Para onde quer ir?"><i class="fas fa-search"></i>
+        </div>
+        <nav class="menu__principal">
+            <ul class="menu">
+                <li class="menu__item"><a href=""><i class="fas fa-pen"></i>Avaliação</a></li>
+                <li class="menu__item"><a href=""><i class="fas fa-bell"></i>Alertas</a></li>
+                <li class="menu__item"><a href=""><i class="fas fa-heart"></i>Favoritos</a></li>
+                <li class="menu__item"><a href=""><i class="fas fa-user"></i>Login</a></li>
+            </ul>
+        </nav>
+    </header>
+    <!-- início cabeçalho -->
+
+    <!-- início links do conteúdo principal -->
+        <article>
+            <section class="header__titulo">
+                <h2><red>Explore</red> Orlando</h2>
+            </section>
+            <nav class="menu__principal">
+                <ul class="menu menu_explore">
+                    <a asp-area="" asp-controller="Home" asp-action="Index"><li class="menu__explore">Home<i class="fas fa-home"></i></li></a>
+                    <a asp-area="" asp-controller="ComoChegar" asp-action="Index"><li class="menu__explore">Como chegar<i class="fas fa-map-marked-alt"></i></li></a>
+                    <a asp-area="" asp-controller="DicasUteis" asp-action="Index"><li class="menu__explore">Dicas úteis<i class="fas fa-lightbulb"></i></li></a>
+                    <a asp-area="" asp-controller="OndeHospedar" asp-action="Index"><li class="menu__explore">Onde se hospedar<i class="fas fa-hotel"></i></li></a>
+                    <a asp-area="" asp-controller="AlugueCarro" asp-action="Index"><li class="menu__explore">Alugue seu carro<i class="fas fa-car"></i></i></li></a>
+                    <a asp-area="" asp-controller="Historia" asp-action="Index"><li class="menu__explore">História<i class="fas fa-landmark"></i></li></a>
+                    <a asp-area="" asp-controller="Cultura" asp-action="Index"><li class="menu__explore">Cultura<i class="fas fa-theater-masks"></i></li></a>
+                    <a asp-area="" asp-controller="Parques" asp-action="Index"><li class="menu__explore">Parques<i class="fas fa-swimmer"></i></li></a>
+                    <a asp-area="" asp-controller="Gastronomia" asp-action="Index"><li class="menu__explore">Gastronomia<i class="fas fa-utensils"></i></li></a>
+                    <a asp-area="" asp-controller="VidaNoturna" asp-action="Index"><li class="menu__explore">Vida noturna<i class="fas fa-glass-martini-alt"></i></i></li></a>
+                    <a asp-area="" asp-controller="Entretenimento" asp-action="Index"><li class="menu__explore">Entretenimento<i class="fas fa-gamepad"></i></li></a>
+                </ul>
+            </nav>
+        </article>
+    <!-- fim links do conteúdo principal -->
+
+     <!-- início conteúdo principal -->
+        <div class="container">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+    <!-- fim conteúdo principal -->
+
+    <!-- Rodapé -->
+    <footer>
+        <h2>Projeto Gulliver - Todos os direitos reservados</h2>
+    </footer>
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
+      crossorigin="anonymous"
+    ></script>
+</body>
+</html>

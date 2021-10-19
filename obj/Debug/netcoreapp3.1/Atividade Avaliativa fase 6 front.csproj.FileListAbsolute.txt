@@ -1,0 +1,46 @@
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\bin\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.exe
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\bin\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.deps.json
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\bin\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.runtimeconfig.json
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\bin\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.runtimeconfig.dev.json
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\bin\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.dll
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\bin\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.pdb
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\bin\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.Views.dll
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.csprojAssemblyReference.cache
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.AssemblyInfoInputs.cache
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.AssemblyInfo.cs
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.csproj.CoreCompileInputs.cache
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.RazorTargetAssemblyInfo.cache
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\staticwebassets\Atividade Avaliativa fase 6 front.StaticWebAssets.Manifest.cache
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\staticwebassets\Atividade Avaliativa fase 6 front.StaticWebAssets.xml
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.dll
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.pdb
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.genruntimeconfig.cache
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.csproj.CopyComplete
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\bin\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.Views.pdb
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.RazorAssemblyInfo.cache
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.RazorAssemblyInfo.cs
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.TagHelpers.input.cache
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.TagHelpers.output.cache
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.RazorCoreGenerate.cache
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.RazorTargetAssemblyInfo.cs
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.Views.pdb
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Razor\Views\AlugueCarro\Index.cshtml.g.cs
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Razor\Views\ComoChegar\Index.cshtml.g.cs
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Razor\Views\Cultura\Index.cshtml.g.cs
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Razor\Views\DicasUteis\Index.cshtml.g.cs
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Razor\Views\Entretenimento\Index.cshtml.g.cs
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Razor\Views\Gastronomia\Index.cshtml.g.cs
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Razor\Views\Historia\Index.cshtml.g.cs
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Razor\Views\OndeHospedar\Index.cshtml.g.cs
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Razor\Views\Parques\Index.cshtml.g.cs
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 front\obj\Debug\netcoreapp3.1\Razor\Views\VidaNoturna\Index.cshtml.g.cs

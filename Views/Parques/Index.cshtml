@@ -1,0 +1,445 @@
+@{
+    ViewData["Title"] = "Parques";
+}
+
+<!-- conteudo principal -->
+<div class="container-fluid my-2 conteudo__principal">
+    <div class="row justify-content-center">
+    <!-- menu lateral -->
+    <div
+        class="
+        col-12 col-sm-12 col-md-3 col-lg-3
+        my-4
+        menu__lateral
+        align-items-center
+        "
+    >
+        <!-- opções -->
+        <h5>Categorias</h5>
+        <div class="form-check">
+        <input
+            class="form-check-input checkbox checkbox"
+            type="checkbox"
+            value=""
+            id="flexCheckDefault"
+        />
+        <label
+            class="form-check-label acessibilidade mx-2"
+            for="flexCheckDefault"
+        >
+            Parques temáticos
+        </label>
+        </div>
+        <div class="form-check">
+        <input
+            class="form-check-input checkbox checkbox"
+            type="checkbox"
+            value=""
+            id="flexCheckDefault"
+        />
+        <label
+            class="form-check-label acessibilidade mx-2"
+            for="flexCheckDefault"
+        >
+            Parques aquáticos
+        </label>
+        </div>
+        <hr />
+
+        <h5>COVID-19</h5>
+        <div class="form-check">
+        <input
+            class="form-check-input checkbox checkbox"
+            type="checkbox"
+            value=""
+            id="flexCheckDefault"
+        />
+        <label
+            class="form-check-label acessibilidade mx-2"
+            for="flexCheckDefault"
+        >
+            Evitar multidões
+        </label>
+        </div>
+        <div class="form-check">
+        <input
+            class="form-check-input checkbox"
+            type="checkbox"
+            value=""
+            id="flexCheckChecked"
+        />
+        <label
+            class="form-check-label acessibilidade mx-2"
+            for="flexCheckChecked"
+        >
+            Com medidas de segurança
+        </label>
+        </div>
+        <hr />
+
+        <h5>Duração</h5>
+        <div class="form-check">
+        <input
+            class="form-check-input checkbox checkbox"
+            type="checkbox"
+            value=""
+            id="flexCheckDefault"
+        />
+        <label
+            class="form-check-label acessibilidade mx-2"
+            for="flexCheckDefault"
+        >
+            Até 1 hora
+        </label>
+        </div>
+        <div class="form-check">
+        <input
+            class="form-check-input checkbox checkbox"
+            type="checkbox"
+            value=""
+            id="flexCheckDefault"
+        />
+        <label
+            class="form-check-label acessibilidade mx-2"
+            for="flexCheckDefault"
+        >
+            1 a 4 horas
+        </label>
+        </div>
+        <div class="form-check">
+        <input
+            class="form-check-input checkbox checkbox"
+            type="checkbox"
+            value=""
+            id="flexCheckDefault"
+        />
+        <label
+            class="form-check-label acessibilidade mx-2"
+            for="flexCheckDefault"
+        >
+            4 horas a 1 dia
+        </label>
+        </div>
+        <hr />
+
+        <h5>Idiomas</h5>
+        <div class="form-check">
+        <input
+            class="form-check-input checkbox checkbox"
+            type="checkbox"
+            value=""
+            id="flexCheckDefault"
+            checked
+        />
+        <label
+            class="form-check-label acessibilidade mx-2"
+            for="flexCheckDefault"
+        >
+            Inglês
+        </label>
+        </div>
+        <div class="form-check">
+        <input
+            class="form-check-input checkbox"
+            type="checkbox"
+            value=""
+            id="flexCheckChecked"
+        />
+        <label
+            class="form-check-label acessibilidade mx-2"
+            for="flexCheckChecked"
+        >
+            Espanhol
+        </label>
+        </div>
+        <div class="form-check">
+        <input
+            class="form-check-input checkbox"
+            type="checkbox"
+            value=""
+            id="flexCheckChecked"
+        />
+        <label
+            class="form-check-label acessibilidade mx-2"
+            for="flexCheckChecked"
+        >
+            Francês
+        </label>
+        </div>
+        <a href="#" class="btn__mais"
+        >Mostrar mais<i class="fas fa-sort-down"></i
+        ></a>
+        <hr />
+
+        <h5>Atrações populares</h5>
+        <div class="form-check">
+        <input
+            class="form-check-input checkbox checkbox"
+            type="checkbox"
+            value=""
+            id="flexCheckDefault"
+        />
+        <label
+            class="form-check-label acessibilidade mx-2"
+            for="flexCheckDefault"
+        >
+            Aquática
+        </label>
+        </div>
+        <div class="form-check">
+        <input
+            class="form-check-input checkbox"
+            type="checkbox"
+            value=""
+            id="flexCheckChecked"
+        />
+        <label
+            class="form-check-label acessibilidade mx-2"
+            for="flexCheckChecked"
+        >
+            Legoland
+        </label>
+        </div>
+        <div class="form-check">
+        <input
+            class="form-check-input checkbox"
+            type="checkbox"
+            value=""
+            id="flexCheckChecked"
+        />
+        <label
+            class="form-check-label acessibilidade mx-2"
+            for="flexCheckChecked"
+        >
+            Go City
+        </label>
+        </div>
+        <div class="form-check">
+        <input
+            class="form-check-input checkbox"
+            type="checkbox"
+            value=""
+            id="flexCheckChecked"
+        />
+        <label
+            class="form-check-label acessibilidade mx-2"
+            for="flexCheckChecked"
+        >
+            Chinatown
+        </label>
+        </div>
+        <a href="#" class="btn__mais"
+        >Mostrar mais<i class="fas fa-sort-down"></i
+        ></a>
+
+        <hr />
+    </div>
+    <!-- fim menu lateral -->
+
+    <!-- cards hotéis -->
+    <div class="col-12 col-sm-12 col-md-7 col-lg-8 my-4">
+        <!-- card 1 -->
+        <div class="card mb-3">
+        <div class="row g-0">
+            <div class="col-4">
+            <img
+                class="img-fluid"
+                src="~/images/parques/parque1.jpg"
+                alt="fachada do Hotel Malte"
+            />
+            </div>
+            <div class="col-8">
+            <div class="card-body">
+                <h5 class="card-title">Disney's Animal Kingdom</h5>
+                <p class="card-text lh-lg">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                1510 avaliações
+                </p>
+                <p class="card-text">
+                Animal Kingdom serve como uma plataforma multi-local para mostrar o amor da Disney pela natureza.
+                </p>
+            </div>
+            </div>
+        </div>
+        </div>
+
+        <!-- card 2 -->
+        <div class="card mb-3">
+        <div class="row g-0">
+            <div class="col-4">
+            <img
+                class="img-fluid"
+                src="~/images/parques/parque2.jpg"
+                alt="fachada do Hotel Malte"
+            />
+            </div>
+            <div class="col-8">
+            <div class="card-body">
+                <h5 class="card-title">Disney Springs</h5>
+                <p class="card-text lh-lg">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                600 avaliações
+                </p>
+                <p class="card-text">
+                Um ótimo lugar para passear, durante o dia ou a noite, boas lojas e ótimos restaurantes, diversão garantida para todas as idades.
+                </p>
+            </div>
+            </div>
+        </div>
+        </div>
+
+        <!-- card 3 -->
+        <div class="card mb-3">
+        <div class="row g-0">
+            <div class="col-4">
+            <img
+                class="img-fluid"
+                src="~/images/parques/parque3.jpg"
+                alt="fachada do Hotel Malte"
+            />
+            </div>
+            <div class="col-8">
+            <div class="card-body">
+                <h5 class="card-title">Magic Kingdom</h5>
+                <p class="card-text lh-lg">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                2.222 avaliações
+                </p>
+                <p class="card-text">
+                Aqui todo mundo volta a ser criança! Diversão garantida e atmosfera mágica!
+                </p>
+            </div>
+            </div>
+        </div>
+        </div>
+
+        <!-- card 4 -->
+        <div class="card mb-3">
+        <div class="row g-0">
+            <div class="col-4">
+            <img
+                class="img-fluid"
+                src="~/images/parques/parque4.jpg"
+                alt="fachada do Hotel Malte"
+            />
+            </div>
+            <div class="col-8">
+            <div class="card-body">
+                <h5 class="card-title">Epcot</h5>
+                <p class="card-text lh-lg">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                2.711 avaliações
+                </p>
+                <p class="card-text">
+                É um dos parques temáticos construídos no Walt Disney World e dedicado à celebração da inovação tecnológica e cultura internacional.
+                </p>
+            </div>
+            </div>
+        </div>
+        </div>
+
+        <!-- card 5 -->
+        <div class="card mb-3">
+        <div class="row g-0">
+            <div class="col-4">
+            <img
+                class="img-fluid"
+                src="~/images/parques/parque5.jpg"
+                alt="fachada do Hotel Malte"
+            />
+            </div>
+            <div class="col-8">
+            <div class="card-body">
+                <h5 class="card-title">Avatar Flight of Passage</h5>
+                <p class="card-text lh-lg">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                1.405 avaliações
+                </p>
+                <p class="card-text">
+                Uma das melhores atrações da Disney.
+                </p>
+            </div>
+            </div>
+        </div>
+        </div>
+
+        <!-- card 6 -->
+        <div class="card mb-3">
+        <div class="row g-0">
+            <div class="col-4">
+            <img
+                class="img-fluid"
+                src="~/images/parques/parque6.jpg"
+                alt="fachada do Hotel Malte"
+            />
+            </div>
+            <div class="col-8">
+            <div class="card-body">
+                <h5 class="card-title">Pandora - The World of Avatar</h5>
+                <p class="card-text lh-lg">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                583 avaliações
+                </p>
+                <p class="card-text">
+                Conforme você vai entrando no Mundo de Pandora, a vegetação e os sons se transformam fazendo você se sentir em um mundo mágico. 
+                </p>
+            </div>
+            </div>
+        </div>
+        </div>
+
+        <!-- card 7 -->
+        <div class="card mb-3">
+        <div class="row g-0">
+            <div class="col-4">
+            <img
+                class="img-fluid"
+                src="~/images/parques/parque7.jpg"
+                alt="fachada do Hotel Malte"
+            />
+            </div>
+            <div class="col-8">
+            <div class="card-body">
+                <h5 class="card-title">Typhoon Lagoon</h5>
+                <p class="card-text lh-lg">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                315 avaliações
+                </p>
+                <p class="card-text">
+                Parque aquático temático, organizado, seguro e alegre.
+                </p>
+            </div>
+            </div>
+        </div>
+        </div>
+    </div>
+    </div>
+</div>
