@@ -8938,11 +8938,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tsci\\My Private Documents\\Estudos\\FIAP\\Atividade Avaliativa fase 6 front\\Atividade Avaliativa fase 6 front.csproj",
+      "projectUniqueName": "C:\\Users\\tsci\\My Private Documents\\Estudos\\FIAP\\Atividade Avaliativa fase 6 enterprise connection\\Atividade Avaliativa fase 6 front.csproj",
       "projectName": "Atividade Avaliativa fase 6 front",
-      "projectPath": "C:\\Users\\tsci\\My Private Documents\\Estudos\\FIAP\\Atividade Avaliativa fase 6 front\\Atividade Avaliativa fase 6 front.csproj",
+      "projectPath": "C:\\Users\\tsci\\My Private Documents\\Estudos\\FIAP\\Atividade Avaliativa fase 6 enterprise connection\\Atividade Avaliativa fase 6 front.csproj",
       "packagesPath": "C:\\Users\\tsci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tsci\\My Private Documents\\Estudos\\FIAP\\Atividade Avaliativa fase 6 front\\obj\\",
+      "outputPath": "C:\\Users\\tsci\\My Private Documents\\Estudos\\FIAP\\Atividade Avaliativa fase 6 enterprise connection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

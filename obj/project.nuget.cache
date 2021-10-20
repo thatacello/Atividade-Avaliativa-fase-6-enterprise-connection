@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "frbvUQVlz90HN7C6rajyxhMtUlaT7Nn3OoZIKQGSzUE5vARK4M+/QbZ5bAlI/HqEN7F871nJIWwRAGMNSrLcbA==",
+  "dgSpecHash": "ZgCyerZ22bap6qhOShJw2wDb96+/h4nUMHYLct1M9yIaGjGoAzm9bOUH3IpY4z2T2YpEI0saC4fFz1eFUSlPRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tsci\\My Private Documents\\Estudos\\FIAP\\Atividade Avaliativa fase 6 front\\Atividade Avaliativa fase 6 front.csproj",
+  "projectFilePath": "C:\\Users\\tsci\\My Private Documents\\Estudos\\FIAP\\Atividade Avaliativa fase 6 enterprise connection\\Atividade Avaliativa fase 6 front.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tsci\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.14\\microsoft.aspnetcore.cryptography.internal.3.1.14.nupkg.sha512",
     "C:\\Users\\tsci\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.14\\microsoft.aspnetcore.cryptography.keyderivation.3.1.14.nupkg.sha512",

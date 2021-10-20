@@ -1,13 +1,10 @@
 using System;
 using System.Collections.Generic;
 using System.Globalization;
-using System.Linq;
-using System.Threading.Tasks;
 using Atividade_Avaliativa_fase_6_front.Data;
 using Atividade_Avaliativa_fase_6_front.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -115,6 +112,9 @@ namespace Atividade_Avaliativa_fase_6_front
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
+
+            // migration
+            serviceProvider.GetService<ApplicationDbContext>().Database.Migrate();
         }
     }
 }
