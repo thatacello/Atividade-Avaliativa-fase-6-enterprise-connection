@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Atividade_Avaliativa_fase_6_front.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20211020004100_ProjetoGulliver")]
+    [Migration("20211020012107_ProjetoGulliver")]
     partial class ProjetoGulliver
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

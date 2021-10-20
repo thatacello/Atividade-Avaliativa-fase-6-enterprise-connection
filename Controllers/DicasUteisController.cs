@@ -7,13 +7,8 @@ namespace Atividade_Avaliativa_fase_6_front.Controllers
 {
     public class DicasUteisController : Controller
     {
-        private readonly ILogger<DicasUteisController> _logger;
         private readonly DicasUteisService _dicasUteisService;
 
-        public DicasUteisController(ILogger<DicasUteisController> logger)
-        {
-            _logger = logger;
-        }
         public DicasUteisController(DicasUteisService dicasUteisService)
         {
             _dicasUteisService = dicasUteisService;

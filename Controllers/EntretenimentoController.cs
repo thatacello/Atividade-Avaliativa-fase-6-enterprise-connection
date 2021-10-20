@@ -7,13 +7,8 @@ namespace Atividade_Avaliativa_fase_6_front.Controllers
 {
     public class EntretenimentoController : Controller
     {
-        private readonly ILogger<EntretenimentoController> _logger;
         private readonly EntretenimentoService _entretenimentoService;
 
-        public EntretenimentoController(ILogger<EntretenimentoController> logger)
-        {
-            _logger = logger;
-        }
         public EntretenimentoController(EntretenimentoService entretenimentoService)
         {
             _entretenimentoService = entretenimentoService;

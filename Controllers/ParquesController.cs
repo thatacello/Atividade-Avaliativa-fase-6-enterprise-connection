@@ -7,13 +7,8 @@ namespace Atividade_Avaliativa_fase_6_front.Controllers
 {
     public class ParquesController : Controller
     {
-        private readonly ILogger<ParquesController> _logger;
         private readonly ParquesService _parquesService;
 
-        public ParquesController(ILogger<ParquesController> logger)
-        {
-            _logger = logger;
-        }
         public ParquesController(ParquesService parquesService)
         {
             _parquesService = parquesService;

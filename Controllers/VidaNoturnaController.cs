@@ -7,13 +7,8 @@ namespace Atividade_Avaliativa_fase_6_front.Controllers
 {
     public class VidaNoturnaController : Controller
     {
-        private readonly ILogger<VidaNoturnaController> _logger;
         private readonly VidaNoturnaService _vidaNoturnaService;
 
-        public VidaNoturnaController(ILogger<VidaNoturnaController> logger)
-        {
-            _logger = logger;
-        }
         public VidaNoturnaController(VidaNoturnaService vidaNoturnaService)
         {
             _vidaNoturnaService = vidaNoturnaService;

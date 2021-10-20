@@ -218,3 +218,4 @@ C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 ente
 C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 enterprise connection\obj\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.dll
 C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 enterprise connection\obj\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.pdb
 C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 enterprise connection\obj\Debug\netcoreapp3.1\Atividade Avaliativa fase 6 front.genruntimeconfig.cache
+C:\Users\tsci\My Private Documents\Estudos\FIAP\Atividade Avaliativa fase 6 enterprise connection\bin\Debug\netcoreapp3.1\composer.json

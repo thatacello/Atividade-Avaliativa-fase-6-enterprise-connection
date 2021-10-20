@@ -7,13 +7,8 @@ namespace Atividade_Avaliativa_fase_6_front.Controllers
 {
     public class OndeHospedarController : Controller
     {
-        private readonly ILogger<OndeHospedarController> _logger;
         private readonly OndeHospedarService _ondeHospedarService;
 
-        public OndeHospedarController(ILogger<OndeHospedarController> logger)
-        {
-            _logger = logger;
-        }
         public OndeHospedarController(OndeHospedarService ondeHospedarService)
         {
             _ondeHospedarService = ondeHospedarService;
